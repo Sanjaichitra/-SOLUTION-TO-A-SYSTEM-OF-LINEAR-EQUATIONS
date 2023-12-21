@@ -17,12 +17,7 @@ End the program
 ## Program to find the solution for the given linear equation.
 ## Developed by:SANJAI S
 ## Register Number:23013614
-import numpy as np
-A = np.array([[1,-3],[3,1]])
-B = np.array([0,10])
-le= np.linalg.solve(A,B)
-print(le)
-
+![Screenshot 2023-12-21 185004](https://github.com/Sanjaichitra/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870518/e97e4fa8-0d20-461d-9812-1d8ac40aadc8)
 
 ## Output:
 ![Screenshot 2023-12-16 151637](https://github.com/Sanjaichitra/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870518/72438d90-bd84-4f97-81e6-6026ca20843e)
