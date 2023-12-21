@@ -15,8 +15,8 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
  # Program to find the solution for the given linear equation.
-## Developed by:SANJAI S
-## Register Number:23013614
+ # Developed by:SANJAI S
+ # Register Number:23013614
 ![Screenshot 2023-12-21 185131](https://github.com/Sanjaichitra/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870518/c5ed9c01-63f3-403b-9b57-481832acd8d5)
 
 
