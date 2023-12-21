@@ -17,6 +17,11 @@ End the program
 ## Program to find the solution for the given linear equation.
 ## Developed by:SANJAI S
 ## Register Number:23013614
+import numpy as np
+A = np.array([[1,-3],[3,1]])
+B = np.array([0,10])
+le= np.linalg.solve(A,B)
+print(le)
 
 
 ## Output:
